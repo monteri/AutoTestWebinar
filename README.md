@@ -1,2 +1,0 @@
-# AutoTestWebinar
-Webinar 2
